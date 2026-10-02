@@ -15,7 +15,7 @@ Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvime
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/francisco-couto-dev" target="_blank">
+  <a href="www.linkedin.com/in/francisco-couto-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fhgc2110@gmail.com">
